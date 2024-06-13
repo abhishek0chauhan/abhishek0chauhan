@@ -1,11 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Abhishek</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-👋 I AM Abhishek Chauhan a Software Developer.<br />
-💻 Tech Enthusiast: Constantly evolving with the tech landscape, I enjoy diving into new technologies, frameworks, and tools.<br />
-🚀 Projects: Check out my GitHub repositories for a glimpse of my diverse projects. From web development to experimental ideas, each project reflects my commitment to practical learning and creativity.<br />
-🌐 Portfolio: Explore my portfolio to delve deeper into my skills, experiences, and showcased projects. Witness firsthand the journey of turning ideas into reality [Portfolio](https://abhishek0chauhan.github.io/my-portfolio/).<br />
-🔗 LinkedIn: Let's connect on LinkedIn. I believe in the power of networking and collaboration, so feel free to reach out for discussions, opportunities, or just a friendly tech chat [Linkedin](https://www.linkedin.com/in/abhishek-chauhan-b8b3b7187/).<br />
-🌱 Continuous Learning: A firm believer in lifelong learning, I actively seek new challenges that broaden my knowledge and push my boundaries.<br />
-🔍 Open Source Contributions: Contributing to the open-source community is my way of giving back. I believe in the collective power of collaboration and the impact it can have on technology as a whole.<br />
-📫 Contact: Have an idea or a collaboration in mind? Reach out through my portfolio or LinkedIn. I'm always open to exploring new opportunities and collaborations.<br />
-Let's code together! 🚀✨
+- 🔭 I’m currently working on **some of my own side projects :P**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mohitjadav](https://github.com/abhishek0chauhan)
+
+- 🧠 I am currently learning **Javascript,Angular,Node**
+
+- 📫 How to reach me **abhi45chauhan@gmail.com**
+
+- ⚡ Fun fact **Big Fan of the emoji**
