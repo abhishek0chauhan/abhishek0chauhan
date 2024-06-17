@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohitjadav](https://github.com/abhishek0chauhan)
 
-- 🧠 I am currently learning **Javascript,Angular,Node**
+- 🧠 Working on technologis like **Javascript,Angular,Node and Go**
 
 - 📫 How to reach me **abhi45chauhan@gmail.com**
 
