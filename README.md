@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on **some of my own side projects :P**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohitjadav](https://github.com/abhishek0chauhan)
+- 👨‍💻 All of my projects are available at [https://github.com/abhishek0chauhan](https://github.com/abhishek0chauhan)
 
-- 🧠 Working on technologis like **Javascript,Angular,Node and Go**
+- 🧠 Working on technologies like **Javascript,Angular,Node and Go**
+
+- 🕸️ Portfolio is available on [Portfolio](https://abhishek0chauhan.github.io/my-portfolio/)
 
 - 📫 How to reach me **abhi45chauhan@gmail.com**
 
