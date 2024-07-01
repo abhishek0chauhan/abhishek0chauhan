@@ -8,5 +8,3 @@
 - 🕸️ Portfolio is available on [Portfolio](https://abhishek0chauhan.github.io/my-portfolio/)
 
 - 📫 How to reach me **abhi45chauhan@gmail.com**
-
-- ⚡ Fun fact **Big Fan of the emoji**
